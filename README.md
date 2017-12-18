@@ -1,7 +1,7 @@
 Mac Windows
 ==
 
-Provide information about Application Windows running and activate and Application.
+Provide information about Application Windows running and activate an Application.
 
 **Important:** This package does not work on Windows or Linux
 
